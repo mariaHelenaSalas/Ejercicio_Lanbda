@@ -1,7 +1,10 @@
+package com.expresioneslambdas;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.function.BiConsumer;
-public class Main {
+
+public class MainBiconsumer {
 public static void main(String[] args) {
 // Crear un Map de claves y valores
 Map<String, Integer> items = new HashMap<>();
